@@ -4,7 +4,6 @@
   "description": "a backend at chai aur code ",
   "main": "index.js",
   "type": "module",
-  
   "scripts": {
     "dev": "nodemon index.js"
   },
@@ -16,6 +15,7 @@
   "author": "kartik sarode",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
